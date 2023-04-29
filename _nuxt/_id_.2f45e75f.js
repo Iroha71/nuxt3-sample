@@ -1,0 +1,1 @@
+import{f as t,q as a,o as s,c as n,W as e,u}from"./entry.3d32308b.js";const l=t({__name:"[id]",setup(c){const o=a().params.id;return(r,i)=>(s(),n("h1",null,"ユーザID: "+e(r.$route.params.id)+", "+e(u(o)),1))}});export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as s,r as t,R as c,o as n}from"./entry.3d32308b.js";const r={},a=c("nav",null,"カスタムレイアウト",-1);function l(e,_){return n(),s("div",null,[a,t(e.$slots,"default")])}const f=o(r,[["render",l]]);export{f as default};

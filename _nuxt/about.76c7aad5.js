@@ -1,0 +1,1 @@
+import{c as e,R as a,o,S as c}from"./entry.3d32308b.js";const l={__name:"about",setup(n){function t(){c("custom")}return(s,u)=>(o(),e("div",null,[a("button",{onClick:t},"Update layout")]))}};export{l as default};
